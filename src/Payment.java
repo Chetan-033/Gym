@@ -13,7 +13,7 @@ import java.util.Date;
 
 /**
  *
- * @author 91814
+ * @author chetan_nerkar
  */
 public class Payment extends javax.swing.JFrame {
      public void table()
