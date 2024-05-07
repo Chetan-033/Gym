@@ -10,7 +10,7 @@ import project.ConnectionProvider;
 
 /**
  *
- * @author 91814
+ * @author chetan_nerkar
  */
 public class Stafflist extends javax.swing.JFrame {
 
