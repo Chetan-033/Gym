@@ -11,7 +11,7 @@ public class ConnectionProvider {
        try
        {
           //Class.forName("org.postgresql.Driver");
-          //Connection con=DriverManager.getConnection("jdbc:postgresql://localhost:5432/gms","postgres","G@y@tri@1402");
+          //Connection con=DriverManager.getConnection("jdbc:postgresql://localhost:5432/gms","postgres","Chet@n11");
            Class.forName("con.mysql.cj.jdbc.Driver");
            Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/gym","root","root");
            return con;
