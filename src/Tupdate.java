@@ -13,7 +13,7 @@ import project.ConnectionProvider;
 
 /**
  *
- * @author 91814
+ * @author chetan_nerkar
  */
 public class Tupdate extends javax.swing.JFrame {
 
