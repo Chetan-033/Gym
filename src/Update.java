@@ -9,7 +9,7 @@ import project.ConnectionProvider;
 
 /**
  *
- * @author 91814
+ * @author chetan_nerkar
  */
 public class Update extends javax.swing.JFrame {
 
