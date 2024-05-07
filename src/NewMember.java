@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 public class NewMember extends javax.swing.JFrame {
 
     /**
-     * Creates new form NewMember
+     *Creates new form NewMember
      */
     public NewMember() {
         initComponents();
