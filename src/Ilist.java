@@ -10,7 +10,7 @@ import project.ConnectionProvider;
 
 /**
  *
- * @author 91814
+ * @author chetan_nerkat
  */
 public class Ilist extends javax.swing.JFrame {
 
